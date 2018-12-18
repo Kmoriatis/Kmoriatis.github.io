@@ -12,7 +12,7 @@
 }
 @media (min-width: 1025px) {
    body {
-      background-image: url('../img/hero-bird-4x3.jpg');
+      background-image: url('img/hero-bird-4x3.jpg');
    }
 
    h1 {
