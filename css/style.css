@@ -11,15 +11,6 @@
    font-weight: 300;
 }
 @media (min-width: 1025px) {
-   html {
-      background: url('../img/hero-cover.png'), url('../img/hero-bird-4x3.jpg');
-      -webkit-background-size: cover;
-      -moz-background-size: cover;
-      -o-background-size: cover;
-      background-size: cover;
-      background-color: #000;
-   }
-
    h1 {
       margin-top: 100px;
       color: #d2dbbd;
