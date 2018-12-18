@@ -59,6 +59,15 @@
 }
 
 @media (min-width: 769px) and (max-width: 1024px) {
+   html {
+      background: url('../img/hero-cover.png') no-repeat center center fixed, url('../img/hero-bird-4x3.jpg') no-repeat center center fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      background-color: #000;
+   }
+
    h1 {
       margin-top: 100px;
       color: #d2dbbd;
@@ -98,6 +107,15 @@
 }
 
 @media (min-width: 460px) and (max-width: 768px) {
+   html {
+      background: url('../img/hero-cover.png') no-repeat center center fixed, url('../img/hero-bird-4x3.jpg') no-repeat center center fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      background-color: #000;
+   }
+
    h1 {
       margin-top: 100px;
       color: #d2dbbd;
@@ -136,6 +154,15 @@
    }
 }
 @media (min-width: 300px) and (max-width: 459px) {
+   html {
+      background: url('../img/hero-cover.png') no-repeat center center fixed, url('../img/hero-bird-4x3.jpg') no-repeat center center fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      background-color: #000;
+   }
+
    h1 {
       margin-top: 100px;
       margin-left: 40px;
