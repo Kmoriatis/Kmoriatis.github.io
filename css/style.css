@@ -13,7 +13,6 @@
 @media (min-width: 1025px) {
    html {
       background-image: url('../img/hero-bird-4x3.jpg');
-      background-color: #000;
    }
 
    h1 {
