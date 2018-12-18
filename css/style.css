@@ -11,7 +11,7 @@
    font-weight: 300;
 }
 @media (min-width: 1025px) {
-   html {
+   body {
       background-image: url('../img/hero-bird-4x3.jpg');
       -webkit-background-size: cover;
       -moz-background-size: cover;
