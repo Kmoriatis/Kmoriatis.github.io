@@ -153,7 +153,7 @@
       text-decoration: none;
    }
 }
-@media (min-width: 300px) and (max-width: 459px) {
+@media (min-width: 100px) and (max-width: 459px) {
    html {
       background: url('../img/qwer.png') no-repeat center center fixed, url('../img/asdf.jpg') no-repeat center center fixed;
       -webkit-background-size: cover;
