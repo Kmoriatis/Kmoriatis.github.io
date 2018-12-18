@@ -12,7 +12,7 @@
 }
 @media (min-width: 1025px) {
    html {
-      background: url('img/hero-cover.png') no-repeat center center fixed, url('img/hero-bird-4x3.jpg') no-repeat center center fixed;
+      background-image: url('../img/hero-cover.png'), url('../img/hero-bird-4x3.jpg');
       -webkit-background-size: cover;
       -moz-background-size: cover;
       -o-background-size: cover;
