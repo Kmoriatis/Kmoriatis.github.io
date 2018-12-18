@@ -12,7 +12,7 @@
 }
 @media (min-width: 1025px) {
    html {
-      background: url('../img/qwer.png') no-repeat center center fixed, url('../asdf.jpg') no-repeat center center fixed;
+      background: url('../img/qwer.png') no-repeat center center fixed, url('../img/asdf.jpg') no-repeat center center fixed;
       -webkit-background-size: cover;
       -moz-background-size: cover;
       -o-background-size: cover;
