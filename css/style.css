@@ -13,10 +13,6 @@
 @media (min-width: 1025px) {
    html {
       background-image: url('../img/hero-bird-4x3.jpg');
-      -webkit-background-size: cover;
-      -moz-background-size: cover;
-      -o-background-size: cover;
-      background-size: cover;
       background-color: #000;
    }
 
