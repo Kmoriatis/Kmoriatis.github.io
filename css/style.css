@@ -24,6 +24,13 @@
    h1 {
       margin-top: 100px;
       color: #d2dbbd;
+      display: flex;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-align-items: center;
+      align-items: center;
+      -webkit-justify-content: center;
+      justify-content: center;
       text-align: center;
       font-family: Oxygen, sans-serif;
       font-size: 50px;
@@ -31,8 +38,14 @@
    }
 
    nav {
+      display: flex;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-align-items: center;
+      align-items: center;
+      -webkit-justify-content: center;
+      justify-content: center;
       color: #d2dbbd;
-      display: inline;
       text-align: center;
    }
 
@@ -79,8 +92,14 @@
    }
 
    nav {
+      display: flex;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-align-items: center;
+      align-items: center;
+      -webkit-justify-content: center;
+      justify-content: center;
       color: #d2dbbd;
-      display: inline;
       text-align: center;
    }
 
@@ -127,8 +146,14 @@
    }
 
    nav {
+      display: flex;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-align-items: center;
+      align-items: center;
+      -webkit-justify-content: center;
+      justify-content: center;
       color: #d2dbbd;
-      display: inline;
       text-align: center;
    }
 
@@ -175,8 +200,14 @@
    }
 
    nav {
+      display: flex;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-align-items: center;
+      align-items: center;
+      -webkit-justify-content: center;
+      justify-content: center;
       color: #d2dbbd;
-      display: inline;
       text-align: center;
    }
 
